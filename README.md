@@ -46,6 +46,7 @@ This project exists thanks to all the people who contribute, especially the thre
 - [Yuwei (Jacqueline) Wang](https://github.com/yuwei-jacque-wang)
 - [Yi Xu](https://www.linkedin.com/in/goodluckxuyi/)
 - [Man Jin](https://www.linkedin.com/in/man-jin/)
+
 And our professor Brian D'alessandro who has provided advising and guidence.
 
 
