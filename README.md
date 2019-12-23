@@ -1,7 +1,7 @@
 # DS-GA 1001 Final Project 
 ## Default Prediction from Payment Behavior
 
-This is a project for NYU DS-GA 1001 Introduction to Data Science class.
+This is a project for NYU DS-GA 1001 Introduction to Data Science class. <br>
 This project contributes as an origianl approach for loan default prediction, especially prediction for default at a certain time, from payment behavior history. To check the origianl dataset please click [here](http://www.creditriskanalytics.net/datasets-private2.html)
 
 This repository contains:
@@ -45,7 +45,7 @@ Feel free to dive in! [Open an issue](https://github.com/yuwei-jacque-wang/DS-GA
 ## Contributors
 
 This project exists thanks to all the people who contribute, especially the three main authors:
-- Yuwei (Jacqueline) Wang [profile](https://www.linkedin.com/in/jacqueline-yuwei-wang-309665b2/)[GitHub](https://github.com/yuwei-jacque-wang)
+- Yuwei (Jacqueline) Wang [profile](https://www.linkedin.com/in/jacqueline-yuwei-wang-309665b2/), [GitHub](https://github.com/yuwei-jacque-wang)
 - Yi Xu [profile](https://www.linkedin.com/in/goodluckxuyi/)
 - Man Jin [profile](https://www.linkedin.com/in/man-jin/)
 
