@@ -10,7 +10,7 @@ This repository contains:
 2. Preliminary Scripts for Exploration
 3. Aggregated Data Sets for Model Training
 4. Codes for Aggregating Data and Feature Engineering
-5. Main Codes for Model Training, Evaluation and Comparison
+5. Codes for Model Training, Evaluation and Comparison
 6. A Final Report (PDF)
 
 
