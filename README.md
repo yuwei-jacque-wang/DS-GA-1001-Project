@@ -45,9 +45,9 @@ Feel free to dive in! [Open an issue](https://github.com/yuwei-jacque-wang/DS-GA
 ## Contributors
 
 This project exists thanks to all the people who contribute, especially the three main authors:
-- Yuwei (Jacqueline) Wang [profile](https://www.linkedin.com/in/jacqueline-yuwei-wang-309665b2/), [GitHub](https://github.com/yuwei-jacque-wang)
-- Yi Xu [profile](https://www.linkedin.com/in/goodluckxuyi/)
-- Man Jin [profile](https://www.linkedin.com/in/man-jin/)
+- Yuwei (Jacqueline) Wang [(profile](https://www.linkedin.com/in/jacqueline-yuwei-wang-309665b2/), [GitHub)](https://github.com/yuwei-jacque-wang)
+- Yi Xu [(profile)](https://www.linkedin.com/in/goodluckxuyi/)
+- Man Jin [(profile)](https://www.linkedin.com/in/man-jin/)
 
 And our professor Brian D'alessandro who has provided advising and guidence.
 
