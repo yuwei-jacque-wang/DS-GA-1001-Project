@@ -7,7 +7,7 @@ This project contributes as an origianl approach for loan default prediction, es
 This repository contains:
 
 1. Original Data Set [mortgate.csv](https://github.com/yuwei-jacque-wang/DS-GA-1001-Project/blob/master/mortgage_csv.rar)
-2. Preliminary Scripts for Exploration
+2. Preliminary Scripts for Exploration [Preliminary_EDA.ipynb](https://github.com/yuwei-jacque-wang/DS-GA-1001-Project/blob/master/Preliminary_EDA.ipynb)
 3. Aggregated Data Sets for Model Training
 4. Codes for Aggregating Data and Feature Engineering
 5. Codes for Model Training, Evaluation and Comparison
