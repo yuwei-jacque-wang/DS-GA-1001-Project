@@ -11,9 +11,10 @@ This repository contains:
 2. Preliminary Scripts for Exploration <br>
   [Preliminary_EDA.ipynb](https://github.com/yuwei-jacque-wang/DS-GA-1001-Project/blob/master/Preliminary_EDA.ipynb)
 3. Aggregated Data Sets for Model Training <br>
+
+4. Codes for Aggregating Data and Feature Engineering <br>
   [Aggregation_Set_1.ipynb](https://github.com/yuwei-jacque-wang/DS-GA-1001-Project/blob/master/Aggregation_Set_1.ipynb) <br>
   [Aggregation_Set_2.ipynb]()
-4. Codes for Aggregating Data and Feature Engineering
 5. Codes for Model Training, Evaluation and Comparison
 6. A Final Report (PDF)
 
