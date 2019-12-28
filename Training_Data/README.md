@@ -1,1 +1,1 @@
-See [Aggregation_Set_1.ipynb](https://github.com/yuwei-jacque-wang/DS-GA-1001-Project/blob/master/Aggregation_Set_1.ipynb & [Aggregation_Set_2.ipynb](https://github.com/yuwei-jacque-wang/DS-GA-1001-Project/blob/master/Aggregation_Set_2.ipynb) for detailed of how datasets are generated
+See [Aggregation_Set_1.ipynb](https://github.com/yuwei-jacque-wang/DS-GA-1001-Project/blob/master/Aggregation_Set_1.ipynb) & [Aggregation_Set_2.ipynb](https://github.com/yuwei-jacque-wang/DS-GA-1001-Project/blob/master/Aggregation_Set_2.ipynb) for details of generating method
