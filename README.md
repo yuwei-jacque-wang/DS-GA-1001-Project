@@ -1,4 +1,4 @@
-# DS-GA 1001 Final Project 
+# DS-GA 1001 Final Project (In Progress)
 ## Default Prediction from Payment Behavior
 
 This is a project for NYU DS-GA 1001 Introduction to Data Science class. <br>
