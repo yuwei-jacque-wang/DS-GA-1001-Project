@@ -1,4 +1,4 @@
-# DS-GA 1001 Final Project (In Progress)
+# DS-GA 1001 Final Project 
 ## Default Prediction from Payment Behavior
 
 This is a project for NYU DS-GA 1001 Introduction to Data Science class. <br>
@@ -15,9 +15,9 @@ This repository contains:
 4. Codes for Aggregating Data and Feature Engineering <br>
   [Aggregation_Set_1.ipynb](https://github.com/yuwei-jacque-wang/DS-GA-1001-Project/blob/master/Aggregation_Set_1.ipynb) <br>
   [Aggregation_Set_2.ipynb](https://github.com/yuwei-jacque-wang/DS-GA-1001-Project/blob/master/Aggregation_Set_2.ipynb)
-5. Codes for Model Training, Evaluation and Comparison
-  [Scale_Split.ipynb](https://github.com/yuwei-jacque-wang/DS-GA-1001-Project/blob/master/Scale_Split.ipynb)
-  [Model & Evaluation]()
+5. Codes for Model Training, Evaluation and Comparison <br>
+  [Scale_Split.ipynb](https://github.com/yuwei-jacque-wang/DS-GA-1001-Project/blob/master/Scale_Split.ipynb)<br>
+  [Model & Evaluation](https://github.com/yuwei-jacque-wang/DS-GA-1001-Project/tree/master/Model_Evaluation)
 6. A Final Report (PDF) <br>
   [Final Report](https://github.com/yuwei-jacque-wang/DS-GA-1001-Project/blob/master/Final%20Report.pdf)
 
