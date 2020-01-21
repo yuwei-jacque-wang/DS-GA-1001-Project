@@ -16,6 +16,8 @@ This repository contains:
   [Aggregation_Set_1.ipynb](https://github.com/yuwei-jacque-wang/DS-GA-1001-Project/blob/master/Aggregation_Set_1.ipynb) <br>
   [Aggregation_Set_2.ipynb](https://github.com/yuwei-jacque-wang/DS-GA-1001-Project/blob/master/Aggregation_Set_2.ipynb)
 5. Codes for Model Training, Evaluation and Comparison
+  [Scale_Split.ipynb](https://github.com/yuwei-jacque-wang/DS-GA-1001-Project/blob/master/Scale_Split.ipynb)
+  [Model & Evaluation]()
 6. A Final Report (PDF) <br>
   [Final Report](https://github.com/yuwei-jacque-wang/DS-GA-1001-Project/blob/master/Final%20Report.pdf)
 
